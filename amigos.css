@@ -1,0 +1,23 @@
+.row {
+position: relative;
+top: 550px;
+left: 20px;
+
+}
+.off {
+    position: relative;
+    top: -145px;
+
+
+}
+body {
+    background: url("amigos-felices-estan-tomando-cerveza-fiesta-barbacoa-dia-soleado_155003-18605.webp");
+    height: 100%;
+}
+.nav-link {
+    color: black;
+    font-size: 35px;
+}
+.nav {
+    background-color: rgb(97, 100, 130);
+}
